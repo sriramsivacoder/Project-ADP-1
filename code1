@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>HyperLinks</title>
+</head>
+<body>
+    <center>
+    <h1><u>Links</u></h1>
+    <h2>Homepage</h2>
+    </center>
+    <ul>
+        <li><h3> View Link <a href="A:\hot-wheels-8177051.jpg">Picture</a></h3></li>
+        <li><h3>View Link <a href="A:\cool-powerful-hard-rock-243776.mp3">Music</a></h3></li>
+        <li><h3>View Link <a href="A:\2849-163375551_large.mp4">Video</a></h3></li>
+    </ul>
+</body>
+</html>
